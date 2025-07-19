@@ -21,5 +21,8 @@ Author: Aditya Agarwal
 <!-- for undoing changes -> (for multiple commit): git reset --hard (commit hash code)/git reset (commit hash code) -->
 <!-- to show all commit : git log -->
 <!-- Fork : A Fork is a new repository that shares code and visibility settings with the original "upstream" repository (Fork is a rough copy) -->
-<!-- git : git is a free and open source version control system that helps developers to track changes in their code and collaborates in projects -->
+<!-- git : git is a free and open source version control system that helps developers to track changes in their code and collaborates in projects.It is fast and scalable -->
 <!-- github: Github is a proprietary developer platform that allows developers to create,store,manages and share their code. It uses git to provide distributed version control and Github itself provides access features requests,task management continuous integration and wikis for every project -->
+<!-- git config --global user.name "My name"-->
+<!-- git config --global user.email "example@email.com" -->
+<!-- to check configuration: git config --list -->
