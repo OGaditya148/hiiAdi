@@ -13,5 +13,6 @@ Author: Aditya Agarwal
 <!-- to commit file : git commit -m "message" -->
 <!-- to push file from local to remote: git push origin maine/git push -->
 <!-- to check the status of git : git status -->
+
 <!-- to compare branch : git diff (branch name) -->
 <!-- to merge branch : git merge (branch name) -->
